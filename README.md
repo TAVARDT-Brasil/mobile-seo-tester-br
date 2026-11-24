@@ -2,6 +2,7 @@
 
 [![Mobile SEO Tester](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/br/teste-seo-mobile/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria tecnica de configuracao de viewport, responsividade, legibilidade tipografica e espacamento de elementos tateis segundo o Google Mobile-First Indexing.
 
@@ -49,6 +50,20 @@ Para auditoria visual completa e teste de renderizacao de dispositivos moveis:
 ## Consultoria em Otimizacao Mobile e SEO Tecnico
 
 Para suporte avancado em responsividade e conformidade com Diretrizes Google Mobile-First Index e W3C Responsive Standards, consulte os especialistas da **TAVARDT**.
+
+***
+
+## Governança e Soberania
+
+* **Unidade Soberana**: **TAVARDT Brasil** (`TAVARDT-Brasil`)
+* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
+* **Central de Diagnósticos**: **Central de Ferramentas TAVARDT**
+* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
 ***
 
