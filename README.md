@@ -1,14 +1,13 @@
 # Testador de SEO Mobile e Compatibilidade para Dispositivos Moveis
 
 [![Mobile SEO Tester](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/br/teste-seo-mobile/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Brasil-00C853.svg)](https://ag.tavardt.com/br/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria tecnica de configuracao de viewport, responsividade, legibilidade tipografica e espacamento de elementos tateis segundo o Google Mobile-First Indexing.
 
-Desenvolvido e mantido pela divisao de engenharia mobile e performance de busca da **[TAVARDT Brasil](https://ag.tavardt.com/br/)**.
+Desenvolvido e mantido pela divisao de engenharia mobile e performance de busca da **TAVARDT Brasil**.
 
----
+***
 
 ## Capacidades de Auditoria de SEO Mobile
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela divisao de engenharia mobile e performance de busca 
 * **Verificacao de Legibilidade Tipografica**: Identificacao de definicoes de fontes estaticas excessivamente pequenas que prejudicam a leitura sem ampliacao.
 * **Pontuacao de Conformidade Mobile-First**: Indice quantitativo de 0 a 100 com detalhamento de falhas tecnicas segundo as diretrizes do Google Mobile-First Indexing.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python mobile_seo_tester.py https://empresa.com.br
 Para gerar relatorio estruturado em formato JSON:
 
 ```bash
-python mobile_seo_tester.py https://empresa.com.br --json
+python mobile_seo_tester.py https://empresa.com.br -json
 ```
 
----
+***
 
 ## Diagnostico Completo na Web
 
 Para auditoria visual completa e teste de renderizacao de dispositivos moveis:
 
-* **[Teste de SEO Mobile Oficial](https://tools.tavardt.com/br/teste-seo-mobile/)**
+* **Teste de SEO Mobile Oficial**
 * **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
 
----
+***
 
 ## Consultoria em Otimizacao Mobile e SEO Tecnico
 
-Para suporte avancado em responsividade e conformidade com Diretrizes Google Mobile-First Index e W3C Responsive Standards, consulte os especialistas da **[TAVARDT Brasil](https://ag.tavardt.com/br/contato/)**.
+Para suporte avancado em responsividade e conformidade com Diretrizes Google Mobile-First Index e W3C Responsive Standards, consulte os especialistas da **TAVARDT Brasil**.
