@@ -49,3 +49,7 @@ Para auditoria visual completa e teste de renderizacao de dispositivos moveis:
 ## Consultoria em Otimizacao Mobile e SEO Tecnico
 
 Para suporte avancado em responsividade e conformidade com Diretrizes Google Mobile-First Index e W3C Responsive Standards, consulte os especialistas da **TAVARDT Brasil**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
