@@ -6,8 +6,6 @@
 
 Auditoria tecnica de configuracao de viewport, responsividade, legibilidade tipografica e espacamento de elementos tateis segundo o Google Mobile-First Indexing.
 
-Desenvolvido e mantido pela divisao de engenharia mobile e performance de busca da **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria de SEO Mobile
@@ -38,15 +36,6 @@ python mobile_seo_tester.py https://empresa.com.br -json
 
 ***
 
-## Diagnostico Completo na Web
-
-Para auditoria visual completa e teste de renderizacao de dispositivos moveis:
-
-* **Teste de SEO Mobile Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
-
-***
-
 ## Consultoria em Otimizacao Mobile e SEO Tecnico
 
 Para suporte avancado em responsividade e conformidade com Diretrizes Google Mobile-First Index e W3C Responsive Standards, consulte os especialistas da **TAVARDT**.
@@ -62,7 +51,7 @@ Para suporte avancado em responsividade e conformidade com Diretrizes Google Mob
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
